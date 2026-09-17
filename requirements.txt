@@ -1,0 +1,7 @@
+# Dashboard dependencies (this is the file Streamlit Community Cloud installs).
+# Verified locally on Python 3.13; notebook dependencies are listed separately.
+streamlit>=1.37,<2
+pandas>=2.2,<4
+numpy>=1.26
+plotly>=5.24,<8
+pyarrow>=16

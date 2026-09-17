@@ -1,0 +1,13 @@
+{
+  "gem_release": "June 2026 (V1)",
+  "gem_file": "Plant-level_data_Global_Iron_and_Steel_Tracker_June_2026_V1.xlsx",
+  "litpop_files": {
+    "CHN": "LitPop Exposure for ['CHN'] at 300 as, year: 2018, financial mode: pc, exp: (1, 1), admin1_calc: False",
+    "IND": "LitPop Exposure for ['IND'] at 300 as, year: 2018, financial mode: pc, exp: (1, 1), admin1_calc: False",
+    "JPN": "LitPop Exposure for ['JPN'] at 300 as, year: 2018, financial mode: pc, exp: (1, 1), admin1_calc: False"
+  },
+  "capacity_metric": "operating + operating pre-retirement nominal crude steel capacity (ttpa)",
+  "max_match_distance_km": 13.1,
+  "neighbourhood_radius_km": 25.0,
+  "litpop_preview_grid_deg": 0.5
+}

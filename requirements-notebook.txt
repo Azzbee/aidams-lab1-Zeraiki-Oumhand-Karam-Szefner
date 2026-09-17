@@ -1,0 +1,8 @@
+# Extra packages needed to re-run lab_1.ipynb (the dashboard does not need them).
+-r requirements.txt
+openpyxl>=3.1        # reads the GEM Excel workbook
+h5py>=3.10           # reads the LitPop HDF5 files
+scikit-learn>=1.4    # BallTree nearest-neighbour search (haversine metric)
+ipykernel>=6.29
+nbformat>=5.10
+kaleido>=1.0         # optional: static PNG copies of the figures (needs Chrome), so maps also show on GitHub

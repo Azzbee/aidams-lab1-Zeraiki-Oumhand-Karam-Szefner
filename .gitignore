@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Raw LitPop sample (17 MB, available on Moodle): unzip litpop.zip next to the notebook to re-run it
+litpop/
+litpop.zip
+*.hdf5
+
+# Excel lock files, OS and editor files
+~$*.xlsx
+.DS_Store
+.vscode/
+.idea/
+
+# Streamlit secrets (none are needed, never commit them)
+.streamlit/secrets.toml
+
+# Local review and tooling caches
+.Codex/
+.ruff_cache/
+.pytest_cache/
